@@ -1,6 +1,6 @@
 {
-  "PREFIX": "p.", 
-  "TOKEN": "ODUzMzE3MDg5NDg5MTkwOTEz.YMTndw.g_c5L1jEiXTW4E2ykOnMeTFBnQM", 
+  "PREFIX": "PREFIX_BOT", 
+  "TOKEN": "TOKEN_BOT", 
   "QUEUE_LIMIT": 0,
   "COLOR": "RED",
   "inviteURL": "BOT INVITE URL" 
